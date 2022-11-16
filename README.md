@@ -2,10 +2,10 @@
   <img src="https://user-images.githubusercontent.com/96985005/202096584-1055d9a1-ea0d-4f90-b7bb-d63dd68dc459.gif" width=300>
 
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ibrahim-mngodo-3a7a48179">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/el_prexe">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
