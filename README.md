@@ -1,4 +1,6 @@
 <div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/96985005/202096584-1055d9a1-ea0d-4f90-b7bb-d63dd68dc459.gif" width=300>
+
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,12 +16,10 @@
 </h1>
 </div>
 
-
-- 👋 Hi, I’m @elprexe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in System Exploitation
+- 🌱 I’m currently learning Django Full-Stack Development
+- 💞️ I’m looking to collaborate on Build and Breaking technology
+- 📫 How to reach me alhazen706@gmail.com
 
 <!---
 elprexe/elprexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
